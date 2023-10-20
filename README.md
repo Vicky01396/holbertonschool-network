@@ -1,7 +1,21 @@
-### Tasks 📝
-### Tasks 0 - OSI model
-### Tasks 1 - Types of network
-### Tasks 2 - MAC and IP address
-### Tasks 3 - UDP and TCP
-### Tasks 4 - TCP and UDP ports
-### Tasks 5 - Is the host on the network
+### Networking basics #0
+
+### Resources
+* OSI model
+* Different types of network
+* LAN network
+* WAN network
+* Internet
+* MAC address
+* What is an IP address
+* Private and public address
+* IPv4 and IPv6
+* Localhost
+* TCP and UDP
+* TCP/UDP ports List
+* What is ping /ICMP
+* Positional parameters
+
+### man
+* netstat
+* ping
